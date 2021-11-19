@@ -10,5 +10,5 @@
   
 <h3 align="center">Socials</h3>
 <p align="center">
-  <a href="https://github.com/z1c3" target="_blank" rel="nofollow"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://instagram.com/yvngxmonkey" target="_blank" rel="nofollow"><img alt="monkeys IG" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-
+ <a href="https://github.com/z1c3" target="_blank" rel="nofollow"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/yvngxmonkey" target="_blank" rel="nofollow"><img alt="monkeys IG" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
